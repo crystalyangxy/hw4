@@ -1,4 +1,11 @@
 # hw4
+How many lines are drawn each frame? In other words, how often does the for loop run?
+40 lines
+
+
+What do the first, second, and third appearances of the number 10 do in the code?
+first adjust left margines, second is for right margines, third is for spaceing between lines.
+
 How many times does the loop body run each frame, once the x and y arrays are full?
 5
 
